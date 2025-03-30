@@ -82,6 +82,6 @@ Embedded YouTube trailers using `iframe`:
 Feel free to contribute by creating a pull request! 🚀
 
 ## 📜 License
-This project is for educational purposes only and does not have a license
+This project is for educational purposes only and does not have a license.
 
 
